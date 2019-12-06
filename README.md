@@ -1,1 +1,1 @@
-#python torshammer.py -t [ IP ] -p 80
+python torshammer.py -t [ IP ] -p 80
